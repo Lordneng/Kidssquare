@@ -1,0 +1,31 @@
+{
+  "name": "Kidssquare",
+  "authors": [
+    "Lordneng <chinnapat.phak@gmail.com>"
+  ],
+  "description": "Web for education English",
+  "main": "",
+  "keywords": [
+    "Learn",
+    "English",
+    "for",
+    "kid"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "latest",
+    "bootstrap": "latest",
+    "Font-Awesome": "latest",
+    "jQuery" : "latest",
+    "gulp": "latest"
+  }
+}
